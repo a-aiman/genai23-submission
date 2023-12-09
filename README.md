@@ -6,7 +6,6 @@ Write Project Name
 QNECT Chatbot
 
 Write Team Name:
-==
 MAGIC_PEAS
 ==
 Mariam Nofal (mynofal1@gmail.com)
