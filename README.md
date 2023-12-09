@@ -2,12 +2,15 @@ This repo is our submission for QCRI Generative AI Hackathon 2023 ([website](htt
 
 
 Write Project Name
-====
+QNECT Chatbot
 
 Write Team Name:
-==
-First Member (first_member@email.com)
-Second Memeber (second_member@email.com)
+MAGIC_PEAS
+Mariam Nofal (mynofal1@gmail.com)
+Aiman Abducarim (man.abducarim@gmail.com)
+Gabriela Gomez (yennygcarrerog@gmail.com)
+Ismail Hasan (ismail.najm.hassan@gmail.com)
+Paundra Abrisam (undrabrisam@gmail.com)
 
 Description
 ==
